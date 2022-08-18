@@ -26,6 +26,11 @@
 
 當客戶端間無法直接建立連接時負責將二客戶端與其的連接接在一起以轉發*加密後的*客戶端資料的服務，由上游開發者或是下游軟體散佈者所提供，也可以自行架設
 
+## 解決方案<br>Solutions
+
+* [The Magic Wormhole Transit Relay Server Ansible Role](https://github.com/brlin-tw/ansible-role-magic-wormhole-transit-relay)  
+  Swiftly and precisely deploy the Magic Wormhole Transit Relay service on multiple servers
+
 ## 參考資料
 
 * [magic-wormhole/magic-wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole)  

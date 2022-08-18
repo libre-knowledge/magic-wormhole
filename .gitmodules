@@ -7,3 +7,7 @@
 #
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "The Magic Wormhole Transit Relay Server Ansible Role"]
+	path = The Magic Wormhole Transit Relay Server Ansible Role
+	url = https://github.com/brlin-tw/ansible-role-magic-wormhole-transit-relay.git
+	ignore = dirty
