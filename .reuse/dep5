@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: 《自由知識協作平台》主題範本
-Upstream-Contact: Issues · libre-knowledge/subject-template <https://github.com/libre-knowledge/subject-template/issues>
-Source: https://github.com/libre-knowledge/subject-template
+Upstream-Name: Magic Wormhole 檔案傳輸解決方案《自由知識協作平台》主題
+Upstream-Contact: Issues · libre-knowledge/magic-wormhole <https://github.com/libre-knowledge/magic-wormhole/issues>
+Source: https://github.com/libre-knowledge/magic-wormhole
 
 Files:
   *README.md
